@@ -1,0 +1,17 @@
+{
+	"editor.renderWhitespace": "none",
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": true,
+	"eslint.enable": true,
+	"eslint.run": "onSave",
+	"javascript.suggestionActions.enabled": false,
+	"yaml.format.enable": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}

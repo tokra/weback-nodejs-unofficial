@@ -1,0 +1,10 @@
+{
+	"WeBackAPI": {
+		"loginUrl": "https://www.weback-login.com/WeBack/WeBack_Login_Ats_V3",
+		"credentials": {
+			"username": "",
+			"password": "",
+			"country": "Slovakia"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"WeBackAPI": {
+		"loginUrl": "WEBACK_LOGIN_API_URL",
+		"credentials": {
+			"username": "WEBACK_LOGIN_USERNAME",
+			"password": "WEBACK_LOGIN_PASSWORD",
+			"country": "WEBACK_LOGIN_COUNTRY"
+		}
+	}
+}
